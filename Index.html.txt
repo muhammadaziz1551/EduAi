@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <title>EduAI – Ta'lim Platformasi</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+
+<h1>EduAI Platformasi</h1>
+<p>O‘qituvchi, ota-ona va o‘quvchilar uchun yordamchi</p>
+
+<button onclick="alert('Kasb tavsiyasi tez orada!')">
+    Kasb tanlash
+</button>
+
+<button onclick="alert('9–11 sinf darslik va testlar tez orada!')">
+    9–11 sinf darslik
+</button>
+
+<script src="script/script.js"></script>
+</body>
+</html>
