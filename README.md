@@ -1,0 +1,2 @@
+# EduAi
+EduAi startap platformasi
